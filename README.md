@@ -1,6 +1,6 @@
 # Monitoring Karyawan WFH
 
-Nama    : Alvian Totonafo Mendrofa
+Nama    : Alvian Totonafo Mendrofa\n
 NIM     : 20220801045
 
 ## Deskripsi Singkat
