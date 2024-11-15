@@ -1,16 +1,13 @@
-# uts_pemmob
+# Monitoring Karyawan WFH
 
-A new Flutter project.
+Nama    : Alvian Totonafo Mendrofa
+NIM     : 20220801045
 
-## Getting Started
+## Deskripsi Singkat
 
-This project is a starting point for a Flutter application.
+Aplikasi Monitoring Karyawan WFH adalah aplikasi mobile yang dirancang untuk memantau status dan jam kerja karyawan yang bekerja dari rumah (WFH). Aplikasi ini memungkinkan pengelola untuk melacak status aktif/tidak aktif karyawan dan menambahkan data karyawan baru.
 
-A few resources to get you started if this is your first Flutter project:
+## Fitur Aplikasi
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Menampilkan daftar karyawan yang bekerja dari rumah, lengkap dengan foto dan status aktif/tidak aktif.
+2. Fitur untuk menambahkan karyawan baru ke dalam sistem.
