@@ -8,5 +8,5 @@ Aplikasi Monitoring Karyawan WFH adalah aplikasi mobile yang dirancang untuk mem
 
 ## Fitur Aplikasi
 
-1. Menampilkan daftar karyawan yang bekerja dari rumah, lengkap dengan foto dan status aktif/tidak aktif.
-2. Fitur untuk menambahkan karyawan baru ke dalam sistem.
+* Menampilkan daftar karyawan yang bekerja dari rumah, dengan status aktif/tidak aktif.
+* Fitur untuk menambahkan karyawan baru ke dalam list karyawan.
